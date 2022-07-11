@@ -1,5 +1,5 @@
 # Online-News-Application
-Online news 
+Online news Application
 
 Created By:
 Jaydev Bhatt
